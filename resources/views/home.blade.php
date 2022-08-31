@@ -15,6 +15,8 @@
                     @endif
 
                     {{ __('You are logged in!') }}
+
+                   <a class='btn btn-primary'href="/borrower">Go to Borrower</a>
                 </div>
             </div>
         </div>
